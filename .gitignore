@@ -17,3 +17,6 @@
 
 # Ignore all .dSYM dirs and contents
 */*.dSYM
+
+# Unignore Makefile
+!Makefile
